@@ -1,2 +1,2 @@
 # React-Native-PushNotification
-React-Native-PushNotification using firebase and react-native-push-notification for Android
+React-Native-PushNotification using FCM and react-native-push-notification for Android
